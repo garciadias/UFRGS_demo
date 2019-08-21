@@ -1,7 +1,7 @@
 
 # UFRGS git demo
 
-## To download dataset go to wget [kaggle-UFO](https://www.kaggle.com/NUFORC/ufo-sightings/downloads/ufo-sightings.zip).
+## To download dataset from [kaggle-UFO](https://www.kaggle.com/NUFORC/ufo-sightings/downloads/ufo-sightings.zip).
 ## To prepare the dataset run:
 
 ```
